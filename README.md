@@ -7,7 +7,7 @@ Biomedical scientist 🔬 and dev beginner 💻.
 
 - 👨‍💻 All of my projects are available at [https://github.com/wtbno](https://github.com/wtbno)
 
-- 📫 How to reach me **bruno_links@hotmail.com**
+- 📫 How to reach me **bruno_links@hotmail.com** // http://lattes.cnpq.br/2427086614293332
 
 ### Connect with me:
 <p align="left">
