@@ -3,7 +3,7 @@ Biomedical scientist 🔬 and dev beginner 💻.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtbno&label=Profile%20views&color=0e75b6&style=flat" alt="wtbno" /> </p>
 
-- :books: I’m currently learning: **Java, MySql, JavaScript**
+- :books: I’m currently learning: **C#, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wtbno](https://github.com/wtbno)
 
