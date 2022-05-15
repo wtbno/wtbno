@@ -4,12 +4,6 @@ Biomedical scientist 🔬 and Front-end dev 💻.
 <p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" />
 <img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" alt="wtbno"/></p>
 
-- :books: I’m currently learning: **ReactJs, JavaScript, Java **
-
-- 👨‍💻 All of my projects are available at [https://github.com/wtbno](https://github.com/wtbno)
-
-
-
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/bruno-alves-b683181a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-alves-b683181a1/" height="30" width="40" /></a>
