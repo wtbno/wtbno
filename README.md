@@ -1,13 +1,13 @@
 ## Hi 
-Biomedical scientist 🔬 and dev beginner 💻.
+Biomedical scientist 🔬 and Front-end dev 💻.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wtbno&label=Profile%20views&color=0e75b6&style=flat" alt="wtbno" /> </p>
+<p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" /> </p>
 
-- :books: I’m currently learning: **ReactJs, JavaScript, TypeScript**
+- :books: I’m currently learning: **ReactJs, JavaScript, Java **
 
 - 👨‍💻 All of my projects are available at [https://github.com/wtbno](https://github.com/wtbno)
 
-- 📫 How to reach me **bruno_links@hotmail.com** // http://lattes.cnpq.br/2427086614293332
+
 
 ### Connect with me:
 <p align="left">
