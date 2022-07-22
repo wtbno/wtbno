@@ -1,5 +1,5 @@
 ## Hi 
-Biomedical scientist 🔬 and Front-end dev 💻.
+Biomedical scientist 🔬 and Fullstack dev 💻.
 
 <p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" style={{width:350px}} /></br>
 <img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" alt="wtbno"/  style={{width:350px}}></p>
