@@ -19,8 +19,7 @@ Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtbno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" style={{width:350px}} /></br>
-<img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" alt="wtbno"/  style={{width:350px}}></p>
+
 
 
 
