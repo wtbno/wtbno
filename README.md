@@ -8,9 +8,6 @@ Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </a> </a> </a> </p> 
 
-<p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" style={{width:350px}} /></br>
-<img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" alt="wtbno"/  style={{width:350px}}></p>
-
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/bruno-alves-b683181a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-alves-b683181a1/" height="30" width="40" /></a>
@@ -21,6 +18,11 @@ Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
   <a href="https://github.com/wtbno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtbno&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<p align="left"> <img src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" alt="wtbno" style={{width:350px}} /></br>
+<img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" alt="wtbno"/  style={{width:350px}}></p>
+
+
 
 
 
