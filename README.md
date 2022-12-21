@@ -9,7 +9,7 @@ Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
 </a> <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/biopython/biopythonsvg" alt="biopython" width="40" height="40"/> 
+
 </a>
 </a> </a> </a> </p> 
 
