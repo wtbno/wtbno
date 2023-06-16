@@ -6,8 +6,8 @@ Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
 <p align="left">  </a> <a href="https://pt-br.reactjs.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="reactjs" style={{ width=40 height=40}}/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="[https://www.python.org/](https://learn.microsoft.com/pt-br/dotnet/csharp/)">
-</a> <a href="[https://www.python.org/](https://learn.microsoft.com/pt-br/dotnet/csharp/)">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+</a> <a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
 </a>
