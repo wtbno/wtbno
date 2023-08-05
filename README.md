@@ -1,6 +1,5 @@
 ## Hi 
-Biomedical scientist 🔬 and Fullstack dev Jr. 💻.
-
+Biomedical scientist - LIS ANALYST microscope and Python dev computer.
 ### Languages and Tools:
 
 <p align="left">  </a> <a href="https://pt-br.reactjs.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="reactjs" style={{ width=40 height=40}}/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
