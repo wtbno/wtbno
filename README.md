@@ -1,8 +1,12 @@
-# Bruno Alves 👋
+# **Bruno Alves 👋**
 
-### Healthcare Technology | Systems Integration | Data Analytics & Artificial Intelligence
+**Healthcare Technology | Systems Integration | Data Analytics & AI**
 
-**Biomedical Scientist | Systems Analyst | Data Science Enthusiast**
+![Healthcare IT](https://img.shields.io/badge/Healthcare-IT-2563EB?style=for-the-badge&logo=medtronic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data-Science-16A34A?style=for-the-badge&logo=databricks&logoColor=white)
+![Systems Integration](https://img.shields.io/badge/Systems-Integration-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 ---
 
